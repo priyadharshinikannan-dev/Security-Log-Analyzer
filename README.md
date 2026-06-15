@@ -30,7 +30,7 @@ The system:
 
 ### Attack Analysis
 
-Bar Graph
+![Bar Graph](attack_bargraph.png)
 
 ### SOC Report
 
